@@ -1,0 +1,2035 @@
+    <!-- http://webprotege.stanford.edu/AshiDoriGarami -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/AshiDoriGarami">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KansetsuWaza"/>
+        <webprotege:nome>Ashi-dori-garami</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Entangled leg dislocation</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de chave de perna.</rdfs:comment>
+        <rdfs:label>AshiDoriGarami</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/AshiGarami -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/AshiGarami">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KansetsuWaza"/>
+        <webprotege:nome>Ashi-garami</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Leg entanglement</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de chave de perna.</rdfs:comment>
+        <rdfs:label>AshiGarami</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/AshiGuruma -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/AshiGuruma">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Ashi-guruma</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Leg wheel</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé giro através da perna.</rdfs:comment>
+        <rdfs:label>AshiGuruma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/AshiHishigi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/AshiHishigi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KansetsuWaza"/>
+        <webprotege:nome>Ashi-hishigi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Straight ankle lock</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de chave de tornozelo</rdfs:comment>
+        <rdfs:label>AshiHishigi</rdfs:label>
+    </owl:NamedIndividual>
+
+	    <!-- http://webprotege.stanford.edu/DakiWakare -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/DakiWakare">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/YokoSutemiWaza"/>
+        <webprotege:nome>Daki-wakare</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">High separation</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício lateral.</rdfs:comment>
+        <rdfs:label>DakiWakare</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Dakiage -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Dakiage">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KoshiWaza"/>
+        <webprotege:nome>Dakiage</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Hugging high lift</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de quadril de levantamento para o alto arremessando.</rdfs:comment>
+        <rdfs:label>Dakiage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/DeashiHarai -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/DeashiHarai">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Deashi-harai</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Advanced foot sweep</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de movimento de rasteira para frente.</rdfs:comment>
+        <rdfs:label>DeashiHarai</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/DoJime -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/DoJime">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/ShimeWaza"/>
+        <webprotege:nome>Do-jime</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Trunk strangle </rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de estrangulamento do tronco (feito com as pernas).</rdfs:comment>
+        <rdfs:label>DoJime</rdfs:label>
+    </owl:NamedIndividual>
+
+    <!-- http://webprotege.stanford.edu/EmpiUchi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/EmpiUchi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/UdeAtemiWaza"/>
+        <webprotege:nome>Empi-uchi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de braço de golpe com cotovelo.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Elbow blow</rdfs:comment>
+        <rdfs:label>EmpiUchi</rdfs:label>
+    </owl:NamedIndividual>
+
+    <!-- http://webprotege.stanford.edu/GyakuJujiJime -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/GyakuJujiJime">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/ShimeWaza"/>
+        <webprotege:nome>Gyaku-juji-jime</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Reverse cross strangle</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de estrangulamento com chave cruzada reversa.</rdfs:comment>
+        <rdfs:label>GyakuJujiJime</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/HadakaJime -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/HadakaJime">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/ShimeWaza"/>
+        <webprotege:nome>Hadaka-jime</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Chave de estrangulamento sem usar o judogi (somente as mãos).</rdfs:comment>
+        <rdfs:comment xml:lang="en">Naked strangle</rdfs:comment>
+        <rdfs:label>HadakaJime</rdfs:label>
+    </owl:NamedIndividual>
+    
+    <!-- http://webprotege.stanford.edu/HaneGoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/HaneGoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KoshiWaza"/>
+        <webprotege:nome>Hane-goshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Spring hip throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de quadril de levantamento com o quadril e perna.</rdfs:comment>
+        <rdfs:label>HaneGoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/HaneGoshiGaeshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/HaneGoshiGaeshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Hane-goshi-gaeshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Hip spring counter</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de contra-ataque com giro pelo quadril.</rdfs:comment>
+        <rdfs:label>HaneGoshiGaeshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/HaneMakikomi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/HaneMakikomi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/YokoSutemiWaza"/>
+        <webprotege:nome>Hane-makikomi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Springing wraparound</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício de arremesso para cima segurando em volta.</rdfs:comment>
+        <rdfs:label>HaneMakikomi</rdfs:label>
+    </owl:NamedIndividual>
+    
+    <!-- http://webprotege.stanford.edu/HaraiGoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/HaraiGoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KoshiWaza"/>
+        <webprotege:nome>Harai-goshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Sweeping hip throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de quadril de rasteira usando o quadril.</rdfs:comment>
+        <rdfs:label>HaraiGoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/HaraiGoshiGaeshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/HaraiGoshiGaeshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Harai-goshi-gaeshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Hip sweep counter</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de contra-ataque com rasteira pelo quadril.</rdfs:comment>
+        <rdfs:label>HaraiGoshiGaeshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/HaraiMakikomi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/HaraiMakikomi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/YokoSutemiWaza"/>
+        <webprotege:nome>Harai-makikomi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Hip sweep wraparound</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício de arremesso com &quot;ceifada&quot; com o quadril.</rdfs:comment>
+        <rdfs:label>HaraiMakikomi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/HaraiTsurikomiAshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/HaraiTsurikomiAshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Harai-tsurikomi-ashi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Lift-pull foot sweep</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de rasteira com o pé levantando e empurrando.</rdfs:comment>
+        <rdfs:label>HaraiTsurikomiAshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/HikikomiGAeshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/HikikomiGAeshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/MaSutemiWaza"/>
+        <webprotege:nome>Hikikomi-gaeshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Pulling in reversal</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício frontal.</rdfs:comment>
+        <rdfs:label>HikikomiGaeshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/HizaGuruma -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/HizaGuruma">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Hiza-guruma</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Knee wheel</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de rodar pelo joelho.</rdfs:comment>
+        <rdfs:label>HizaGuruma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/HizaHishigi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/HizaHishigi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KansetsuWaza"/>
+        <webprotege:nome>Hiza-hishigi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Knee crush</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de chave de joelho.</rdfs:comment>
+        <rdfs:label>HizaHishigi</rdfs:label>
+    </owl:NamedIndividual>
+    
+    <!-- http://webprotege.stanford.edu/IpponSeoiNage -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/IpponSeoiNage">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/TeWaza"/>
+        <webprotege:nome>Ippon-seoi-nage</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Single-handed back throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de mão com um braço e o ombro.</rdfs:comment>
+        <rdfs:label>IpponSeoiNage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/JigokuJime -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/JigokuJime">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/ShimeWaza"/>
+        <webprotege:nome>Jigoku-jime</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Hell strangle</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de estrangulamento da posição do crucifixo ou &quot;estrangulamento infernal&quot;.</rdfs:comment>
+        <rdfs:label>JigokuJime</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KamiAte -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KamiAte">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/UdeAtemiWaza"/>
+        <webprotege:nome>Kami-ate</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de braço de golpes para cima.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Upward blow</rdfs:comment>
+        <rdfs:label>KamiAte</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KamiShihoGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KamiShihoGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/OsaeKomiWaza"/>
+        <webprotege:nome>Kami-shiho-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Técnica de imobilização da parte superior pelos quatro pontos.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Upper four quarter hold down</rdfs:comment>
+        <rdfs:label>KamiShihoGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KaniBasami -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KaniBasami">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/YokoSutemiWaza"/>
+        <webprotege:nome>Kani-basami</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Crab or scissors throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício de arremesso de tesoura.</rdfs:comment>
+        <rdfs:label>KaniBasami</rdfs:label>
+    </owl:NamedIndividual>
+    
+    <!-- http://webprotege.stanford.edu/KataGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KataGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/OsaeKomiWaza"/>
+        <webprotege:nome>Kata-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Shoulder hold</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de imobilização de prender com o ombro e pescoço.</rdfs:comment>
+        <rdfs:label>KataGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KataGuruma -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KataGuruma">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/TeWaza"/>
+        <webprotege:nome>Kata-guruma</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Shoulder wheel</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de mão de giro pelo ombro.</rdfs:comment>
+        <rdfs:label>KataGuruma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KataHaJime -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KataHaJime">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/ShimeWaza"/>
+        <webprotege:nome>Kata-ha-jime</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Single wing strangle</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de estrangulamento de chave com um braço na nuca.</rdfs:comment>
+        <rdfs:label>KataHaJime</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KataJujiJime -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KataJujiJime">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/ShimeWaza"/>
+        <webprotege:nome>Kata-juji-jime</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Half cross strangle</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de estrnagulamento de meia chave de estrangulamento cruzada combinada.</rdfs:comment>
+        <rdfs:label>KataJujiJime</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KatateJime -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KatateJime">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/ShimeWaza"/>
+        <webprotege:nome>Katate-jime</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">One-hand strangle</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de estrangulamento com uma mão.</rdfs:comment>
+        <rdfs:label>KatateJime</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KawazuGake -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KawazuGake">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/YokoSutemiWaza"/>
+        <webprotege:nome>Kawazu-gake</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">One-leg entanglement</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício com captura envolvendo com uma perna.</rdfs:comment>
+        <rdfs:label>KawazuGake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KesaGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KesaGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/OsaeKomiWaza"/>
+        <webprotege:nome>Kesa-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Scarf hold</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de imobilização de pegada de pescoço e braço.</rdfs:comment>
+        <rdfs:label>KesaGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KibisuGaeshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KibisuGaeshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/TeWaza"/>
+        <webprotege:nome>Kibisu-gaeshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">One-hand reversal</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de mão de queda com uma mão segurando a perna.</rdfs:comment>
+        <rdfs:label>KibisuGaeshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Kirioroshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Kirioroshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/UdeAtemiWaza"/>
+        <webprotege:nome>Kirioroshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de braço de corte para baixo.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Downward knife hand blow</rdfs:comment>
+        <rdfs:label>Kirioroshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KoshiGuruma -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KoshiGuruma">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KoshiWaza"/>
+        <webprotege:nome>Koshi-guruma</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Hip wheel</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de quadril de giro pelo quadril.</rdfs:comment>
+        <rdfs:label>KoshiGuruma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KoshiWaza -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KoshiWaza">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/TipoTecnicaKodokan"/>
+        <webprotege:nome xml:lang="pt">Koshi-waza</webprotege:nome>
+        <rdfs:comment xml:lang="pt">Subdivisão das técnicas de projeção (nage-waza) classificadas como técnica de quadril (koshi-waza).</rdfs:comment>
+        <rdfs:label xml:lang="pt">KoshiWaza</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KosotoGake -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KosotoGake">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Kosoto-gake</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Small outer hook</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de pequeno gancho por fora.</rdfs:comment>
+        <rdfs:label>KosotoGake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KosotoGari -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KosotoGari">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Kosoto-gari</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Small outer reap</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de pequena rasteira por fora.</rdfs:comment>
+        <rdfs:label>KosotoGari</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KouchiGaeshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KouchiGaeshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/TeWaza"/>
+        <webprotege:nome>Kouchi-gaeshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Small inner reap reversal</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de mão de contra-ataque de arremesso com pequena rasteira por dentro.</rdfs:comment>
+        <rdfs:label>KouchiGaeshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KouchiGari -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KouchiGari">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Kouchi-gari</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Small inner reap</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de pequena rasteira por dentro.</rdfs:comment>
+        <rdfs:label>KouchiGari</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KuchikiTaoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KuchikiTaoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/TeWaza"/>
+        <webprotege:nome>Kuchiki-taoshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Single leg takedown</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de mão de queda com uma mão segurando o calcanhar.</rdfs:comment>
+        <rdfs:label>KuchikiTaoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KuzureKamiShihoGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KuzureKamiShihoGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/OsaeKomiWaza"/>
+        <webprotege:nome>Kuzure-kami-shiho-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Broken upper four quarter hold down</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Variação da técnica de imobilização da parte superior pelos quatro pontos.</rdfs:comment>
+        <rdfs:label>KuzureKamiShihoGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/KuzureKesaGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KuzureKesaGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/OsaeKomiWaza"/>
+        <webprotege:nome>Kuzure-kesa-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Broken scarf hold</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Variação da técnica de imobilização de pegada de pescoço e braço cruzado.</rdfs:comment>
+        <rdfs:label>KuzureKesaGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+    <!-- http://webprotege.stanford.edu/MaeAte -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/MaeAte">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/AshiAtemiWaza"/>
+        <webprotege:nome>Mae-ate</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de perna de golpe frontal.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Front knee</rdfs:comment>
+        <rdfs:label>MaeAte</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/MaeGeri -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/MaeGeri">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/AshiAtemiWaza"/>
+        <webprotege:nome>Mae-geri</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de perna de chute frontal.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Front kick</rdfs:comment>
+        <rdfs:label>MaeGeri</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/MaeUkemi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/MaeUkemi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/Ukemi"/>
+        <webprotege:nome>Mae-ukemi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Forward breakfall</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de queda para frente.</rdfs:comment>
+        <rdfs:label>MaeUkemi</rdfs:label>
+    </owl:NamedIndividual>
+
+    <!-- http://webprotege.stanford.edu/MoroteGari -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/MoroteGari">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/TeWaza"/>
+        <webprotege:nome>Morote-gari</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Two-hand reap</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de mão de derrubar agarrando com as duas mãos.</rdfs:comment>
+        <rdfs:label>MoroteGari</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/NamiJujiJime -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/NamiJujiJime">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/ShimeWaza"/>
+        <webprotege:nome>Nami-juji-jime</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Normal cross strangle</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de estrangulamento de chave cruzada normal.</rdfs:comment>
+        <rdfs:label>NamiJujiJime</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/NanameAte -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/NanameAte">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/UdeAtemiWaza"/>
+        <webprotege:nome>Naname-ate</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de braço de grande soco cruzado.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Front crossing blow</rdfs:comment>
+        <rdfs:label>NanameAte</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/NanameGeri -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/NanameGeri">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/AshiAtemiWaza"/>
+        <webprotege:nome>Naname-geri</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de perna de chute cruzado.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Roundhouse Kick</rdfs:comment>
+        <rdfs:label>NanameGeri</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/NanameUchi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/NanameUchi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/UdeAtemiWaza"/>
+        <webprotege:nome>Naname-uchi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de braço de golpe diagonal.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Slanting knife hand blow</rdfs:comment>
+        <rdfs:label>NanameUchi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/OGoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/OGoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KoshiWaza"/>
+        <webprotege:nome>O-goshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Full hip throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de quadril de grande arremesso com o quadril.</rdfs:comment>
+        <rdfs:label>OGoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/OGuruma -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/OGuruma">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>O-guruma</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Large wheel</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de grande giro.</rdfs:comment>
+        <rdfs:label>OGuruma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/ObiOtoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/ObiOtoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/TeWaza"/>
+        <webprotege:nome>Obi-otoshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Belt drop</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de mão de arremesso segurando a faixa.</rdfs:comment>
+        <rdfs:label>ObiOtoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/OkuriAshiHarai -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/OkuriAshiHarai">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Okuri-ashi-harai</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Sliding foot sweep</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de rasteira com o pé.</rdfs:comment>
+        <rdfs:label>OkuriAshiHarai</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/OkuriEriJime -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/OkuriEriJime">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/ShimeWaza"/>
+        <webprotege:nome>Okuri-eri-jime</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Sliding lapel strangle</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de estrangulamento de chave deslizante de gola.</rdfs:comment>
+        <rdfs:label>OkuriEriJime</rdfs:label>
+    </owl:NamedIndividual>
+    
+    <!-- http://webprotege.stanford.edu/OsotoGaeshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/OsotoGaeshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Osoto-gaeshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Big outer reap counter</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de contra-ataque de arremesso com grande rasteira por fora.</rdfs:comment>
+        <rdfs:label>OsotoGaeshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/OsotoGari -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/OsotoGari">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Osoto-gari</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Big outer reap</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de grande rasteira externa.</rdfs:comment>
+        <rdfs:label>OsotoGari</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/OsotoGuruma -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/OsotoGuruma">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Osoto-guruma</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Big outer wheel</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de grande giro externo.</rdfs:comment>
+        <rdfs:label>OsotoGuruma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/OsotoMakikomi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/OsotoMakikomi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/YokoSutemiWaza"/>
+        <webprotege:nome>Osoto-makikomi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Big outer wraparound</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício lateral de arremesso com grande enganchamento por fora.</rdfs:comment>
+        <rdfs:label>OsotoMakikomi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/OsotoOtoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/OsotoOtoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Osoto-otoshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Big outer drop</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé.</rdfs:comment>
+        <rdfs:label>OsotoOtoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/OuchiGaeshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/OuchiGaeshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Ouchi-gaeshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Big inner reap counter</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de contra-ataque de arremesso com grande rasteira por dentro.</rdfs:comment>
+        <rdfs:label>OuchiGaeshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/OuchiGari -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/OuchiGari">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Ouchi-gari</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Big inner reap</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de grande rasteira por dentro.</rdfs:comment>
+        <rdfs:label>OuchiGari</rdfs:label>
+    </owl:NamedIndividual>
+
+    <!-- http://webprotege.stanford.edu/RyoganTsuki -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RyoganTsuki">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/UdeAtemiWaza"/>
+        <webprotege:nome>Ryogan-tsuki</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de braço de golpe nos dois olhos.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Throat strike - Strike both eyes with fingertips</rdfs:comment>
+        <rdfs:label>RyoganTsuki</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RyoteJime -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RyoteJime">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/ShimeWaza"/>
+        <webprotege:nome>Ryote-jime</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Two-hand strangle</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de estrangulamento com as duas mãos.</rdfs:comment>
+        <rdfs:label>RyoteJime</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/SankakuGarami -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/SankakuGarami">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KansetsuWaza"/>
+        <webprotege:nome>Sankaku-garami</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Triangular entanglement</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de chave de braço triangular.</rdfs:comment>
+        <rdfs:label>SankakuGarami</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/SankakuGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/SankakuGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/OsaeKomiWaza"/>
+        <webprotege:nome>Sankaku-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Triangular Hold </rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de imobilização triangular.</rdfs:comment>
+        <rdfs:label>SankakuGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/SankakuJime -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/SankakuJime">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/ShimeWaza"/>
+        <webprotege:nome>Sankaku-jime</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Triangular strangle, triangle choke</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de estrangulamento triangular.</rdfs:comment>
+        <rdfs:label>SankakuJime</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/SasaeTsurikomiAshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/SasaeTsurikomiAshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Sasae-tsurikomi-ashi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Propping and drawing ankle throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de arremesso com o pé de apoio &quot;levantar e puxar&quot;.</rdfs:comment>
+        <rdfs:label>SasaeTsurikomiAshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+    <!-- http://webprotege.stanford.edu/SeoiNage -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/SeoiNage">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/TeWaza"/>
+        <webprotege:nome>Seoi-nage</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Back throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de mão de arremesso pelo ombro e braço.</rdfs:comment>
+        <rdfs:label>SeoiNage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/SeoiOtoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/SeoiOtoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/TeWaza"/>
+        <webprotege:nome>Seoi-otoshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Back drop</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Variação de técnica de projeção de mão de arremesso pelo ombro e braço.</rdfs:comment>
+        <rdfs:label>SeoiOtoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+    <!-- http://webprotege.stanford.edu/ShimoTsuki -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/ShimoTsuki">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/UdeAtemiWaza"/>
+        <webprotege:nome>Shimo-tsuki</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de braço de golpe para baixo.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Downward blow</rdfs:comment>
+        <rdfs:label>ShimoTsuki</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/SodeGurumaJime -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/SodeGurumaJime">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/ShimeWaza"/>
+        <webprotege:nome>Sode-guruma-jime</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Sleeve wheel strangle</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de estrangulamento em roda com a manga.</rdfs:comment>
+        <rdfs:label>SodeGurumaJime</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/SodeTsurikomiGoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/SodeTsurikomiGoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KoshiWaza"/>
+        <webprotege:nome>Sode-tsurikomi-goshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Sleeve lifting and pulling hip throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de quadril de arremesso com o quadril com levantamento e puxão pela manga.</rdfs:comment>
+        <rdfs:label>SodeTsurikomiGoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+    <!-- http://webprotege.stanford.edu/SotoMakikomi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/SotoMakikomi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/YokoSutemiWaza"/>
+        <webprotege:nome>Soto-makikomi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Outer wraparound</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício de arremesso para fora segurando em volta.</rdfs:comment>
+        <rdfs:label>SotoMakikomi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/SukuiNage -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/SukuiNage">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/TeWaza"/>
+        <webprotege:nome>Sukui-nage</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Scoop throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de mão de arremesso levantando as duas pernas e jogando para trás.</rdfs:comment>
+        <rdfs:label>SukuiNage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/SumiGaeshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/SumiGaeshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/MaSutemiWaza"/>
+        <webprotege:nome>Sumi-gaeshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Corner reversal</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício de arrmesso para a diagonal.</rdfs:comment>
+        <rdfs:label>SumiGaeshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/SumiOtoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/SumiOtoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/TeWaza"/>
+        <webprotege:nome>Sumi-otoshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Corner drop</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de mão de arremesso para a diagonal.</rdfs:comment>
+        <rdfs:label>SumiOtoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/TaiOtoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/TaiOtoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/TeWaza"/>
+        <webprotege:nome>Tai-otoshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Body drop</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de mão de queda de corpo.</rdfs:comment>
+        <rdfs:label>TaiOtoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/TakaGeri -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/TakaGeri">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/AshiAtemiWaza"/>
+        <webprotege:nome>Taka-geri</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de perna de chute alto frontal.</rdfs:comment>
+        <rdfs:comment xml:lang="en">High front kick</rdfs:comment>
+        <rdfs:label>TakaGeri</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/TamaGuruma -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/TamaGuruma">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/YokoSutemiWaza"/>
+        <webprotege:nome>Tama-guruma</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Jade wheel</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício lateral de giro pelo ombro (similar a kata-guruma).</rdfs:comment>
+        <rdfs:label>TamaGuruma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/TaniOtoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/TaniOtoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/YokoSutemiWaza"/>
+        <webprotege:nome>Tani-otoshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício de queda do vale.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Valley drop</rdfs:comment>
+        <rdfs:label>TaniOtoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/TateShihoGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/TateShihoGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/OsaeKomiWaza"/>
+        <webprotege:nome>Tate-shiho-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Técnica de imobilização frontal segurando pelos quatro cantos.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Vertical four quarter hold</rdfs:comment>
+        <rdfs:label>TateShihoGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/TawaraGaeshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/TawaraGaeshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/MaSutemiWaza"/>
+        <webprotege:nome>Tawara-gaeshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Rice bag reversal throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício frontal de arremesso do &quot;saco de arroz&quot;.</rdfs:comment>
+        <rdfs:label>TawaraGaeshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/TeGuruma -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/TeGuruma">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/TeWaza"/>
+        <webprotege:nome>Te-guruma</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Hand wheel</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de mão de roda de mão.</rdfs:comment>
+        <rdfs:label>TeGuruma</rdfs:label>
+    </owl:NamedIndividual>
+    
+    <!-- http://webprotege.stanford.edu/TobiGoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/TobiGoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KoshiWaza"/>
+        <webprotege:nome>Tobi-goshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Flying/surfing hip throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de quadril de arremesso com o quadril levantando e puxando similar a tsurikomi-goshi.</rdfs:comment>
+        <rdfs:label>TobiGoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+    <!-- http://webprotege.stanford.edu/TomoeNage -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/TomoeNage">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/MaSutemiWaza"/>
+        <webprotege:nome>Tomoe-nage</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Circle throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício de arremesso circular frontal.</rdfs:comment>
+        <rdfs:label>TomoeNage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/TsubameGaeshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/TsubameGaeshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Tsubame-gaeshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Swallow counter</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de contra-ataque da &quot;andorinha&quot;.</rdfs:comment>
+        <rdfs:label>TsubameGaeshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Tsukiage -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Tsukiage">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/UdeAtemiWaza"/>
+        <webprotege:nome>Tsukiage</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de braço de soco &quot;uppercut&quot;.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Uppercut</rdfs:comment>
+        <rdfs:label>Tsukiage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Tsukidashi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Tsukidashi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/UdeAtemiWaza"/>
+        <webprotege:nome>Tsukidashi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de braço de empurraão com a mão.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Stomach punch with fingertips</rdfs:comment>
+        <rdfs:label>Tsukidashi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Tsukkake -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Tsukkake">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/UdeAtemiWaza"/>
+        <webprotege:nome>Tsukkake</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de braço de soco no estômago.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Straight punch</rdfs:comment>
+        <rdfs:label>Tsukkake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/TsukkomiJime -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/TsukkomiJime">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/ShimeWaza"/>
+        <webprotege:nome>Tsukkomi-jime</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Thrust choke</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de estrangulamento empurrando.</rdfs:comment>
+        <rdfs:label>TsukkomiJime</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/TsuriGoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/TsuriGoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KoshiWaza"/>
+        <webprotege:nome>Tsuri-goshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Lifting hip throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de quadril de arremesso levantando com o quadril pela faixa.</rdfs:comment>
+        <rdfs:label>TsuriGoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/TsurikomiGoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/TsurikomiGoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KoshiWaza"/>
+        <webprotege:nome>Tsurikomi-goshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Lifting and pulling hip throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de quadril de arremesso com o quadril levantando e puxando.</rdfs:comment>
+        <rdfs:label>TsurikomiGoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UchiMakikomi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UchiMakikomi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/YokoSutemiWaza"/>
+        <webprotege:nome>Uchi-makikomi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Inner wraparound</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício de arremesso para fora segurando embaixo do ombro.</rdfs:comment>
+        <rdfs:label>UchiMakikomi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UchiMata -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UchiMata">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Uchi-mata</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Inner-thigh</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé de arremesso levantando por entre as pernas.</rdfs:comment>
+        <rdfs:label>UchiMata</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UchiMataGaeshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UchiMataGaeshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/RDEi6Wsv8zxYUIfOODEYj5b"/>
+        <webprotege:nome>Uchi-mata-gaeshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Inner-thigh counter</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de pé ou perna de contra-ataque do arremesso que engancha pela parte interna da coxa.</rdfs:comment>
+        <rdfs:label>UchiMataGaeshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UchiMataMakikomi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UchiMataMakikomi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/YokoSutemiWaza"/>
+        <webprotege:nome>Uchi-mata-makikomi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Inner thigh wraparound</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício de arremesso enganchado pela parte interna da coxa.</rdfs:comment>
+        <rdfs:label>UchiMataMakikomi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UchiMataSukashi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UchiMataSukashi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/TeWaza"/>
+        <webprotege:nome>Uchi-mata-sukashi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Inner thigh void throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de mão de desvencilhar a entrada entre as pernas.</rdfs:comment>
+        <rdfs:label>UchiMataSukashi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Uchioroshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Uchioroshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/UdeAtemiWaza"/>
+        <webprotege:nome>Uchioroshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de braço de golpe para baixo.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Downward strike</rdfs:comment>
+        <rdfs:label>Uchioroshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+    <!-- http://webprotege.stanford.edu/UdeGaeshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UdeGaeshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/YokoSutemiWaza"/>
+        <webprotege:nome>Ude-gaeshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Arm reversal</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Variação da técnica de projeção de sacrifício de separação lateral.</rdfs:comment>
+        <rdfs:label>UdeGaeshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UdeGarami -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UdeGarami">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KansetsuWaza"/>
+        <webprotege:nome>Ude-garami</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Arm entanglement or &quot;figure-four&quot; key lock</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de chave de braço (chave do &quot;número quatro&quot;).</rdfs:comment>
+        <rdfs:label>UdeGarami</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UdeHishigiAshiGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UdeHishigiAshiGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KansetsuWaza"/>
+        <webprotege:nome>Ude-hishigi-ashi-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Side-lying arm bar</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de chave de braço com a perna.</rdfs:comment>
+        <rdfs:label>UdeHishigiAshiGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UdeHishigiHaraGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UdeHishigiHaraGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KansetsuWaza"/>
+        <webprotege:nome>Ude-hishigi-hara-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Side-extended arm bar, lower stomach against opponent&apos;s elbow</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de chave de braço com a barriga.</rdfs:comment>
+        <rdfs:label>UdeHishigiHaraGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UdeHishigiHizaGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UdeHishigiHizaGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KansetsuWaza"/>
+        <webprotege:nome>Ude-hishigi-hiza-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Knee arm bar</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de chave de braço com o joelho.</rdfs:comment>
+        <rdfs:label>UdeHishigiHizaGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UdeHishigiJujiGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UdeHishigiJujiGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KansetsuWaza"/>
+        <webprotege:nome>Ude-hishigi-juji-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Back-lying perpendicular arm bar</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de chave de braço cruzada.</rdfs:comment>
+        <rdfs:label>UdeHishigiJujiGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UdeHishigiSankakuGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UdeHishigiSankakuGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KansetsuWaza"/>
+        <webprotege:nome>Ude-hishigi-sankaku-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Triangular strangle, using the legs</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de chave de braço de forma triangular.</rdfs:comment>
+        <rdfs:label>UdeHishigiSankakuGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UdeHishigiTeGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UdeHishigiTeGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KansetsuWaza"/>
+        <webprotege:nome>Ude-hishigi-te-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Hand armlock</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de chave de braço com a mão.</rdfs:comment>
+        <rdfs:label>UdeHishigiTeGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UdeHishigiUdeGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UdeHishigiUdeGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KansetsuWaza"/>
+        <webprotege:nome>Ude-hishigi-ude-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Arm lock</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de chave de braço.</rdfs:comment>
+        <rdfs:label>UdeHishigiUdeGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UdeHishigiWakiGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UdeHishigiWakiGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KansetsuWaza"/>
+        <webprotege:nome>Ude-hishigi-waki-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Armpit arm-entanglement</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de aprisionamento de chave de braço prendendo pela axila.</rdfs:comment>
+        <rdfs:label>UdeHishigiWakiGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+    <!-- http://webprotege.stanford.edu/UkiGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UkiGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/OsaeKomiWaza"/>
+        <webprotege:nome>Uki-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Floating hold</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de imobilização de pegada flutuante.</rdfs:comment>
+        <rdfs:label>UkiGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UkiGoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UkiGoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KoshiWaza"/>
+        <webprotege:nome>Uki-goshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Floating half-hip throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de quadril de arremesso flutuante com o quadril.</rdfs:comment>
+        <rdfs:label>UkiGoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UkiOtoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UkiOtoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/TeWaza"/>
+        <webprotege:nome>Uki-otoshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Floating drop</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de mão de queda flutuante.</rdfs:comment>
+        <rdfs:label>UkiOtoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+    <!-- http://webprotege.stanford.edu/UraGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UraGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/OsaeKomiWaza"/>
+        <webprotege:nome>Ura-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Back hold</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de imobilização de segurar com as costas.</rdfs:comment>
+        <rdfs:label>UraGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UraKesaGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UraKesaGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/OsaeKomiWaza"/>
+        <webprotege:nome>Ura-kesa-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Back scarf hold</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Uma variação (pegada por trás) da técnica de imobilização de pegada de pescoço e braço (kesa-gatame).</rdfs:comment>
+        <rdfs:label>UraKesaGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UraNage -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UraNage">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/MaSutemiWaza"/>
+        <webprotege:nome>Ura-nage</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Rear throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrificio de arremesso para trás.</rdfs:comment>
+        <rdfs:label>UraNage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UshiroAte -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UshiroAte">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/UdeAtemiWaza"/>
+        <webprotege:nome>Ushiro-ate</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de soco para trás.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Rear elbow strike</rdfs:comment>
+        <rdfs:label>UshiroAte</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UshiroGeri -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UshiroGeri">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/AshiAtemiWaza"/>
+        <webprotege:nome>Ushiro-geri</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de perna de chute para trás.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Backward kick</rdfs:comment>
+        <rdfs:label>UshiroGeri</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UshiroGoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UshiroGoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KoshiWaza"/>
+        <webprotege:nome>Ushiro-goshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Rear throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de quadril de arremesso para trás com o quadril.</rdfs:comment>
+        <rdfs:label>UshiroGoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UshiroGuruma -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UshiroGuruma">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KoshiWaza"/>
+        <webprotege:nome>Ushiro-guruma</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Rear wheel</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de quadril de arremesso com o quadril similar a hane-goshi.</rdfs:comment>
+        <rdfs:label>UshiroGuruma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UshiroKesaGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UshiroKesaGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/OsaeKomiWaza"/>
+        <webprotege:nome>Ushiro-kesa-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Reverse Scarf Hold</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Uma variação (pegada reversa) da técnica de imobilização de pegada de pescoço e braço (kesa-gatame).</rdfs:comment>
+        <rdfs:label>UshiroKesaGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UshiroSumiTsuki -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UshiroSumiTsuki">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/UdeAtemiWaza"/>
+        <webprotege:nome>Ushiro-sumi-tsuki</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente com o braço golpeando para diagonal traseira.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Rear corner blow</rdfs:comment>
+        <rdfs:label>UshiroSumiTsuki</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UshiroTsuki -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UshiroTsuki">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/UdeAtemiWaza"/>
+        <webprotege:nome>Ushiro-tsuki</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Rear blow</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Variação de ataque contundente com o braço golpeando para trás.</rdfs:comment>
+        <rdfs:label>UshiroTsuki</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UshiroUchi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UshiroUchi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/UdeAtemiWaza"/>
+        <webprotege:nome>Ushiro-uchi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente com o braço golpeando para trás.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Rear blow</rdfs:comment>
+        <rdfs:label>UshiroUchi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UshiroUkemi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UshiroUkemi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/Ukemi"/>
+        <webprotege:nome>Ushiro-ukemi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Backward breakfall</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de queda para trás.</rdfs:comment>
+        <rdfs:label>UshiroUkemi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/UtsuriGoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UtsuriGoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/KoshiWaza"/>
+        <webprotege:nome>Utsuri-goshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Hip shift</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de quadril de mudança do quadril.</rdfs:comment>
+        <rdfs:label>UtsuriGoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+    <!-- http://webprotege.stanford.edu/YamaArashi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/YamaArashi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/TeWaza"/>
+        <webprotege:nome>Yama-arashi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Mountain storm</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de mão da &quot;tempestade de montanha&quot;.</rdfs:comment>
+        <rdfs:label>YamaArashi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/YokoAte -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/YokoAte">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/UdeAtemiWaza"/>
+        <webprotege:nome>Yoko-ate</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente com golpe lateral.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Side blow</rdfs:comment>
+        <rdfs:label>YokoAte</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/YokoGake -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/YokoGake">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/YokoSutemiWaza"/>
+        <webprotege:nome>Yoko-gake</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Side prop</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacríficio de arremesso lateral.</rdfs:comment>
+        <rdfs:label>YokoGake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/YokoGeri -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/YokoGeri">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/AshiAtemiWaza"/>
+        <webprotege:nome>Yoko-geri</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente de perna de chute lateral.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Side kick</rdfs:comment>
+        <rdfs:label>YokoGeri</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/YokoGuruma -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/YokoGuruma">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/YokoSutemiWaza"/>
+        <webprotege:nome>Yoko-guruma</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Side wheel</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício de giro lateral.</rdfs:comment>
+        <rdfs:label>YokoGuruma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/YokoOtoshi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/YokoOtoshi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/YokoSutemiWaza"/>
+        <webprotege:nome>Yoko-otoshi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Side drop</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício de queda lateral.</rdfs:comment>
+        <rdfs:label>YokoOtoshi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/YokoShihoGatame -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/YokoShihoGatame">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/OsaeKomiWaza"/>
+        <webprotege:nome>Yoko-shiho-gatame</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Side four quarter hold</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de imobilização de pegada lateral pelos quatro cantos.</rdfs:comment>
+        <rdfs:label>YokoShihoGatame</rdfs:label>
+    </owl:NamedIndividual>
+    
+    <!-- http://webprotege.stanford.edu/YokoTomoeNage -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/YokoTomoeNage">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/YokoSutemiWaza"/>
+        <webprotege:nome>Yoko-tomoe-nage</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Side circle throw</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício de arremesso circular lateral (variação de tomoe-nage).</rdfs:comment>
+        <rdfs:label>YokoTomoeNage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/YokoUchi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/YokoUchi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/UdeAtemiWaza"/>
+        <webprotege:nome>Yoko-uchi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="pt">Ataque contundente com golpe lateral.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Side blow</rdfs:comment>
+        <rdfs:label>YokoUchi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/YokoUkemi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/YokoUkemi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/Ukemi"/>
+        <webprotege:nome>Yoko-ukemi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Sideways breakfall</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de queda lateral.</rdfs:comment>
+        <rdfs:label>YokoUkemi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/YokoWakare -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/YokoWakare">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/YokoSutemiWaza"/>
+        <webprotege:nome>Yoko-wakare</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Side separation</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de projeção de sacrifício de separação lateral.</rdfs:comment>
+        <rdfs:label>YokoWakare</rdfs:label>
+    </owl:NamedIndividual>
+    
+    <!-- http://webprotege.stanford.edu/ZempoKaitenUkemi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/ZempoKaitenUkemi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Tecnica"/>
+        <webprotege:tipoTecnicaKodokan rdf:resource="http://webprotege.stanford.edu/Ukemi"/>
+        <webprotege:nome>ZempoKaitenUkemi</webprotege:nome>
+        <webprotege:proibidaEmCompeticao rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</webprotege:proibidaEmCompeticao>
+        <webprotege:reconhecimentoKodokan rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:reconhecimentoKodokan>
+        <rdfs:comment xml:lang="en">Forward roll</rdfs:comment>
+        <rdfs:comment xml:lang="pt">Técnica de queda com rolamento para frente.</rdfs:comment>
+        <rdfs:label>ZempoKaitenUkemi</rdfs:label>
+    </owl:NamedIndividual>
+    

@@ -1,0 +1,36 @@
+Fighter;Group;Subgroup;Member;Start;Finish;Score;Orientation;;
+B;Displacement;Circular left;; 00:00:00,714; 00:00:03,154;;;;
+B;Displacement;2-3 Step Hesitant Right;; 00:00:03,154; 00:00:05,970;;;;
+B;Displacement;Try to Grip With Contact;; 00:00:06,141; 00:00:07,549;;;;
+B;Grip Time;Right Sleeve Left Sleeve;; 00:00:07,549; 00:00:21,865;;;;GRAND SLAM RIO DE JANEIRO
+B;Attack;SODE SEOI NAGE;Right; 00:00:21,865; 00:00:23,010;;6;;
+B;Grip Time;Left Collar Right Sleeve;; 00:00:23,176; 00:00:28,873;;;;GANHOU IPPON
+B;Displacement;2-3 Step Hesitant Right;; 00:00:29,026; 00:00:35,220;;;;SEIO NAGE
+B;Displacement;Try to Grip With Contact;; 00:00:35,392; 00:00:41,586;;;;
+B;Grip Time;Right Sleeve Left Sleeve;; 00:00:41,761; 00:00:49,026;;;;
+B;Displacement;2-3 Step Hesitant Right;; 00:00:49,184; 00:00:54,913;;;;
+B;Displacement;Try to Grip With Contact;; 00:00:55,079; 00:01:41,355;;;;
+B;Grip Time;Left Collar Right Sleeve;; 00:01:41,507; 00:01:46,748;;;;
+B;Displacement;Try to Grip With Contact;; 00:01:46,920; 00:01:54,767;;;;
+B;Grip Time;Right Sleeve Left Sleeve;; 00:01:54,928; 00:02:07,829;;;;
+B;Grip Time;Right Collar Right Sleeve;; 00:02:07,829; 00:02:11,669;;;;
+B;Pause;Shido without score;; 00:02:11,669; 00:02:18,124;;;;
+B;Displacement;2-3 Step Hesitant Right;; 00:02:18,307; 00:02:21,854;;;;
+B;Pause;;; 00:02:21,854; 00:02:26,030;;;;
+B;Displacement;2-3 Step Hesitant Right;; 00:02:26,218; 00:02:32,034;;;;
+B;Displacement;Try to Grip With Contact;; 00:02:32,194; 00:02:39,398;;;;
+B;Grip Time;Left Collar Right Sleeve;; 00:02:39,555; 00:03:25,066;;;;
+B;finta;OUCHI GARI RIGHT;; 00:03:25,066; 00:03:25,066;;;;
+B;Grip Time;Left Collar Right Sleeve;; 00:03:25,066; 00:03:26,608;;;;
+B;finta;KOUCHI GARI RIGHT;; 00:03:26,608; 00:03:26,608;;;;
+B;finta;OUCHI GARI RIGHT;; 00:03:26,608; 00:03:27,378;;;;
+B;Grip Time;Left Collar Right Sleeve;; 00:03:27,378; 00:03:31,552;;;;
+B;Transition;Without attack;; 00:03:31,552; 00:03:33,173;;;;
+B;Pause;;; 00:03:33,331; 00:03:40,939;;;;
+B;Displacement;2-3 Step Hesitant Right;; 00:03:41,094; 00:03:46,808;;;;
+B;Grip Time;Left Collar Right Sleeve;; 00:03:46,978; 00:04:04,226;;;;
+B;Attack;SEOI NAGE;Right; 00:04:04,226; 00:04:05,878;IPPON;6;;
+B;End of Combat;;; 00:04:05,878; 00:05:22,115;;;;
+;;;;;;;;;
+;;;;;;;;;
+Frami v1.2.1.1;;;;;;;;;
